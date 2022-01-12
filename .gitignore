@@ -135,3 +135,7 @@ dmypy.json
 *.zip
 *.rar
 test.py
+/logs
+/logs_nn
+/cats_and_dogs
+
