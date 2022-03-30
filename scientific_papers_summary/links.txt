@@ -1,0 +1,61 @@
+https://paperswithcode.com/paper/practical-deep-reinforcement-learning
+https://github.com/AI4Finance-Foundation/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020
+https://arxiv.org/pdf/1908.00734v1.pdf
+https://github.com/GitiHubi/deepAD
+
+https://arxiv.org/pdf/2011.09607v1.pdf
+
+https://github.com/AI4Finance-Foundation/FinRL
+https://github.com/AI4Finance-Foundation/FinRL/blob/master/FinRL_ICAIF%202021_paper.pdf
+https://ai4finance.medium.com/finrl-for-quantitative-finance-install-and-setup-tutorial-for-beginners-1db80ad39159
+
+https://arxiv.org/pdf/2112.06753v1.pdf
+http://finrl.org/index.php/project/finrl-meta/
+https://medium.datadriveninvestor.com/finrl-meta-a-universe-of-near-real-market-en-vironments-for-data-driven-financial-reinforcement-e1894e1ebfbd
+https://www.higithub.com/AI4Finance-Foundation/issue/FinRL-Meta/17
+https://github.com/AI4Finance-Foundation/FinRL-Meta
+
+
+https://towardsdatascience.com/elegantrl-a-lightweight-and-stable-deep-reinforcement-learning-library-95cef5f3460b
+
+https://colab.research.google.com/#scrollTo=OwuxHmxllTwN
+Paper Summary Details
+
+Title
+Authors
+
+Abstract:
+1. Problem Statement
+2. Proposed Solution
+3. Pros and cons
+
+Introduction
+1. What is the target
+2. What is solved
+3. Why is this solved
+4. Definitions, names, models, approaches, etc.
+5. Interesting cross-references
+
+
+Methods 
+Architecture
+Comment differences
+Training
+Approaches - loss function, what is new, how are they combined
+Describe formulas
+
+Data and results
+dataset(s)
+metrics
+results
+
+Discussion
+now what?
+limitations
+assumptions
+
+Can we go further?
+
+References/Resources
+
+Reproduction - try to recreate some part of the code.

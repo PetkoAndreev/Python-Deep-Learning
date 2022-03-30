@@ -1,0 +1,48 @@
+
+QõL
+	/host:CPUõÈ.
+
+tf_ComputeÈ.¼Æ
+
+tf_Compute¼Æ
+ÀAÀA"SõÀAcomputeHà÷¢P€üäÚZ
+tracing_count3Z!
+tf_function_calltraced-nonXla",õÀATFE_Py_ExecuteCancelableH ²Ì¼wP ñ”‹*"9õÀA%EagerExecute: __inference_compute_102HÀ™ÌŞwP€Ãˆç)">õÀA*EagerLocalExecute: __inference_compute_102HÀ×ŞßwP€Ğİå)"2õÀAEagerCopyToDeviceAndAddCacheKeyHÀÓƒâwP€º·"0õÀAValidateInputTypeAndPlacementHÀ›ùPÀîm"FõÀAEagerKernelExecuteHÀÈ§ûP€ÖšÉZ
+	step_name0Z
+group_id0"KõÀAFunctionRunH ÀÀşP€‰í«Z
+id-9140219119953200182Z
+group_id0"õÀAtf.constantHÀ”¯ìüPÀ‡¾)"*õÀATFE_DeleteTensorHandleHà¬ìıPà°Œ"-õÀATFE_Py_FastPathExecute_CH ôùŞıP€Û°Ò")õÀATFE_DeleteTensorHandleH€…®òıP ")õÀATFE_DeleteTensorHandleH€­ñóıP ",õÀAEagerExecute: LogicalAndHÀŠ¯øıP€¨âJ"1õÀAEagerLocalExecute: LogicalAndHà¶şøıP á†J"0õÀAValidateInputTypeAndPlacementHàíÓœşP ÷6"5õÀAEagerKernelExecuteH€¹ìşPàçá$Z
+group_id0"`õÀA
+LogicalAndHÀ¹Î şP ¶ÂZ"
+	long_nameLogicalAnd:LogicalAndZ
+group_id0Z
+is_eager1",õÀATFE_Py_FastPathExecute_CHàÓÑâÿP à,"*õÀAEagerExecute: IdentityH€ä£óÿPàåÙ"/õÀAEagerLocalExecute: IdentityHÀèàóÿPàÆ"0õÀAValidateInputTypeAndPlacementHàıÑ‡€P Â"5õÀAEagerKernelExecuteH ì¿ˆ€P€Ù€Z
+group_id0"YõÀAIdentityHà®Š€P€ŸIZ
+	long_nameIdentity:IdentityZ
+group_id0Z
+is_eager1",õÀATFE_Py_FastPathExecute_CH üà—€P€²"õÀAtf.constantHàèåÖ€P Ê‰")õÀATFE_DeleteTensorHandleH€‡ç€P ¬O"õÀAtf.constantH ›şù€PÀ»İ")õÀATFE_DeleteTensorHandleH ªÛƒPÀÏ$"õÀAtf.constantH€âªPÀ˜¹")õÀATFE_DeleteTensorHandleH ğµP ÷6",õÀATFE_Py_ExecuteCancelableHàó»ÄPÀš«I".õÀAEagerExecute: WriteSummaryH ù¼ÊP€×—B"3õÀAEagerLocalExecute: WriteSummaryHÀğóÊP ÅÔA"0õÀAValidateInputTypeAndPlacementHàêöÛPÀÏ$"5õÀAEagerKernelExecuteHà¾ØÜPÀò²/Z
+group_id0"fõÀAWriteSummaryHÀ®ŞP ´ï,Z&
+	long_nameWriteSummary:WriteSummaryZ
+group_id0Z
+is_eager1"*õÀATFE_DeleteTensorHandleHÀÃ‚P –€")õÀATFE_DeleteTensorHandleHÀ©†’‚P€ê0")õÀATFE_DeleteTensorHandleHÀÈÏ’‚P "õÀAtf.constantHÀ×¬œ‚P€Ûˆ")õÀATFE_DeleteTensorHandleHÀÌß¨‚P€ê0")õÀATFE_DeleteTensorHandleHÀÉÈ°‚P ÷6"*õÀATFE_DeleteTensorHandleH€¸¶±‚PÀê’"*õÀATFE_DeleteTensorHandleHÀø²À‚P €±")õÀATFE_DeleteTensorHandleH€¥³Â‚P "Tõ¼ÆExecutorDoneCallbackH •Ãà P€»ûZ
+id-9140219119953200182Z
+group_id0"dõÈ.ExecutorState::ProcessH€ô‹» Pà–—Z
+id-9140219119953200182Z
+iter_num0Z
+group_id0"MõÈ.MulHÀî¿Í PÀÔÃZ
+	long_name	mul_1:MulZ
+group_id0Z
+is_eager0"dõÈ.ExecutorState::ProcessHà©ì× PàºÊZ
+id-9140219119953200182Z
+iter_num0Z
+group_id0"JõÈ.MulH ãÁØ Pà‘CZ
+	long_namemul:MulZ
+group_id0Z
+is_eager0"OõÈ.AddV2HÀùÁÙ P€¾’Z
+	long_name	add:AddV2Z
+group_id0Z
+is_eager0"PõÈ.SquareH ş¯Û Pà‘CZ
+	long_name
+pow:SquareZ
+group_id0Z
+is_eager0
